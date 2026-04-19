@@ -1,3 +1,7 @@
+// Audio module for Space Invader Game
+// Target: DE1-SoC (Cyclone V)
+// Author: Suyash Garad
+
 #include "audio.h"
 
 // Simple delay (temporary)
